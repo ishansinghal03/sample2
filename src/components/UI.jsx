@@ -1,11 +1,11 @@
-import React from 'react'
+// import React from 'react'
 
-function UI(){
-  return (
-    <div>
-        <h1>User login page</h1>
-    </div>
-  )
-}
+// function UI(){
+//   return (
+//     <div>
+//         <h1>User login page</h1>
+//     </div>
+//   )
+// }
 
-export default UI;
+// export default UI;
