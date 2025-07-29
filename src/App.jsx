@@ -7,10 +7,7 @@ import Demo4 from './components/Demo4'
 const App = () => {
   return (
     <div>
-    <Demo1/>
-    <Demo2/>
-    <Demo3/>
-    <Demo4/>
+      
     </div>
   )
 }
